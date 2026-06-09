@@ -1,6 +1,11 @@
 # Basic SQL Practice
 
-This folder contains 40 Basic-level HackerRank SQL practice templates.
+This folder contains 40 Basic-level HackerRank SQL practice files.
+
+## Current Status
+
+All 40 Basic-level practice files are accepted on HackerRank and documented in
+this repository.
 
 ## Focus Areas
 

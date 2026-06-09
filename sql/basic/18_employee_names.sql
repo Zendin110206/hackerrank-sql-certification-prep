@@ -3,14 +3,18 @@
 -- Difficulty: Easy
 -- Max score: 10
 -- Concepts: SELECT, ORDER BY
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Pending original task summary.
+-- Return employee names sorted alphabetically.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    name
+FROM employee
+ORDER BY name ASC;
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The query selects only the requested employee name column and sorts the
+-- output in ascending alphabetical order.

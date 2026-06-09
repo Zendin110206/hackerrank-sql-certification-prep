@@ -3,14 +3,18 @@
 -- Difficulty: Easy
 -- Max score: 10
 -- Concepts: COUNT, WHERE
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Pending original task summary.
+-- Count cities with population above the required threshold.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    COUNT(*) AS city_count
+FROM city
+WHERE population > 100000;
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The WHERE clause filters cities by population before COUNT returns the
+-- number of matching rows.

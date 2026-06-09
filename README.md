@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-foundation%20ready-blue)
 ![SQL](https://img.shields.io/badge/sql-practice-2EC866)
 ![HackerRank](https://img.shields.io/badge/platform-HackerRank-2EC866)
-![Progress](https://img.shields.io/badge/progress-18%2F57-blue)
+![Progress](https://img.shields.io/badge/progress-41%2F57-blue)
 
 A structured SQL practice repository for HackerRank SQL challenges and SQL certification preparation.
 
@@ -27,10 +27,10 @@ The work here focuses on:
 | ------------------------------- | ------------- |
 | Repository foundation           | Ready         |
 | Public challenge roadmap        | Ready         |
-| Basic practice templates        | Ready         |
+| Basic practice solutions        | Complete      |
 | Intermediate practice templates | Ready         |
 | Advanced practice templates     | Ready         |
-| Solved practice problems        | 18 of 57      |
+| Solved practice problems        | 41 of 57      |
 | Certification attempts          | Not attempted |
 
 ## Certification Direction
@@ -70,7 +70,7 @@ This repository is for preparation and practice documentation. It does not conta
     |-- README.md
     |-- basic/
     |   |-- README.md
-    |   `-- 40 practice templates
+    |   `-- 40 accepted practice files
     |-- intermediate/
     |   |-- README.md
     |   `-- 13 practice templates
@@ -85,10 +85,10 @@ The full challenge list is tracked in [CHALLENGES.md](CHALLENGES.md).
 
 | Level        | Problems | Max Score | Solved |
 | ------------ | -------: | --------: | -----: |
-| Basic        |       40 |       520 |     17 |
+| Basic        |       40 |       520 |     40 |
 | Intermediate |       13 |       440 |      1 |
 | Advanced     |        4 |       140 |      0 |
-| Total        |       57 |      1100 |     18 |
+| Total        |       57 |      1100 |     41 |
 
 ## Solution Lifecycle
 

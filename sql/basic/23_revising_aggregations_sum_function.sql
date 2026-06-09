@@ -3,14 +3,18 @@
 -- Difficulty: Easy
 -- Max score: 10
 -- Concepts: SUM, WHERE
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Pending original task summary.
+-- Return the total population for cities in California.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    SUM(population) AS total_population
+FROM city
+WHERE district = 'California';
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The query filters CITY rows to the California district, then SUM returns the
+-- combined population for those rows.

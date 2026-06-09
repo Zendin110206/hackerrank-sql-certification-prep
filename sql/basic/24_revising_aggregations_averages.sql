@@ -3,14 +3,18 @@
 -- Difficulty: Easy
 -- Max score: 10
 -- Concepts: AVG, WHERE
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Pending original task summary.
+-- Return the average population for cities in California.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    AVG(population) AS average_population
+FROM city
+WHERE district = 'California';
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The WHERE clause keeps only California rows before AVG calculates the mean
+-- population for those cities.

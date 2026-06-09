@@ -2,15 +2,19 @@
 -- Track: SQL Basic
 -- Difficulty: Easy
 -- Max score: 10
--- Concepts: AVG, rounding or flooring
--- Status: Not started
+-- Concepts: AVG, FLOOR
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Pending original task summary.
+-- Return the average population across all cities, rounded down to the nearest
+-- integer.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    FLOOR(AVG(population)) AS average_population
+FROM city;
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- AVG calculates the mean population across the whole CITY table. FLOOR rounds
+-- that average down, which matches the requested rounding direction.

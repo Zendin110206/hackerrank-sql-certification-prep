@@ -102,6 +102,29 @@ SELECT
 FROM city;
 ```
 
+## Numeric Formatting and Math
+
+Numeric SQL problems often combine aggregation with formatting or distance
+formulas.
+
+Common MySQL functions:
+
+- `ROUND(value, decimals)` rounds to a fixed number of decimal places.
+- `FLOOR(value)` rounds down to the nearest integer.
+- `CEIL(value)` rounds up to the nearest integer.
+- `TRUNCATE(value, decimals)` cuts a number to a fixed decimal scale.
+- `ABS(value)` returns the absolute value.
+- `SQRT(value)` returns the square root.
+- `POW(value, exponent)` raises a value to a power.
+
+Example:
+
+```sql
+SELECT
+    ROUND(SQRT(POW(x2 - x1, 2) + POW(y2 - y1, 2)), 4) AS distance
+FROM points;
+```
+
 ## GROUP BY
 
 `GROUP BY` creates groups before aggregation.

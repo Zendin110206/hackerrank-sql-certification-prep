@@ -13,10 +13,10 @@ Status values:
 
 | Level        | Problems | Max Score | Status     |
 | ------------ | -------: | --------: | ---------- |
-| Basic        |       40 |       520 | 17 accepted |
+| Basic        |       40 |       520 | 40 accepted |
 | Intermediate |       13 |       440 | 1 accepted |
 | Advanced     |        4 |       140 | 0 accepted |
-| Total        |       57 |      1100 | 18 accepted |
+| Total        |       57 |      1100 | 41 accepted |
 
 ## Basic
 
@@ -39,29 +39,29 @@ Status values:
 |  15 | Weather Observation Station 11             | Easy       |        15 | [sql/basic/15_weather_observation_station_11.sql](sql/basic/15_weather_observation_station_11.sql)             | Accepted    |
 |  16 | Weather Observation Station 12             | Easy       |        15 | [sql/basic/16_weather_observation_station_12.sql](sql/basic/16_weather_observation_station_12.sql)             | Accepted    |
 |  17 | Higher Than 75 Marks                       | Easy       |        15 | [sql/basic/17_higher_than_75_marks.sql](sql/basic/17_higher_than_75_marks.sql)                                 | Accepted    |
-|  18 | Employee Names                             | Easy       |        10 | [sql/basic/18_employee_names.sql](sql/basic/18_employee_names.sql)                                             | Not started |
-|  19 | Employee Salaries                          | Easy       |        10 | [sql/basic/19_employee_salaries.sql](sql/basic/19_employee_salaries.sql)                                       | Not started |
-|  20 | Type of Triangle                           | Easy       |        20 | [sql/basic/20_type_of_triangle.sql](sql/basic/20_type_of_triangle.sql)                                         | Not started |
-|  21 | The PADS                                   | Medium     |        30 | [sql/basic/21_the_pads.sql](sql/basic/21_the_pads.sql)                                                         | Not started |
-|  22 | Revising Aggregations - The Count Function | Easy       |        10 | [sql/basic/22_revising_aggregations_count_function.sql](sql/basic/22_revising_aggregations_count_function.sql) | Not started |
-|  23 | Revising Aggregations - The Sum Function   | Easy       |        10 | [sql/basic/23_revising_aggregations_sum_function.sql](sql/basic/23_revising_aggregations_sum_function.sql)     | Not started |
-|  24 | Revising Aggregations - Averages           | Easy       |        10 | [sql/basic/24_revising_aggregations_averages.sql](sql/basic/24_revising_aggregations_averages.sql)             | Not started |
-|  25 | Average Population                         | Easy       |        10 | [sql/basic/25_average_population.sql](sql/basic/25_average_population.sql)                                     | Not started |
-|  26 | Japan Population                           | Easy       |        10 | [sql/basic/26_japan_population.sql](sql/basic/26_japan_population.sql)                                         | Not started |
-|  27 | Population Density Difference              | Easy       |        10 | [sql/basic/27_population_density_difference.sql](sql/basic/27_population_density_difference.sql)               | Not started |
-|  28 | The Blunder                                | Easy       |        15 | [sql/basic/28_the_blunder.sql](sql/basic/28_the_blunder.sql)                                                   | Not started |
-|  29 | Top Earners                                | Easy       |        20 | [sql/basic/29_top_earners.sql](sql/basic/29_top_earners.sql)                                                   | Not started |
-|  30 | Weather Observation Station 2              | Easy       |        15 | [sql/basic/30_weather_observation_station_2.sql](sql/basic/30_weather_observation_station_2.sql)               | Not started |
-|  31 | Weather Observation Station 13             | Easy       |        10 | [sql/basic/31_weather_observation_station_13.sql](sql/basic/31_weather_observation_station_13.sql)             | Not started |
-|  32 | Weather Observation Station 14             | Easy       |        10 | [sql/basic/32_weather_observation_station_14.sql](sql/basic/32_weather_observation_station_14.sql)             | Not started |
-|  33 | Weather Observation Station 15             | Easy       |        15 | [sql/basic/33_weather_observation_station_15.sql](sql/basic/33_weather_observation_station_15.sql)             | Not started |
-|  34 | Weather Observation Station 16             | Easy       |        10 | [sql/basic/34_weather_observation_station_16.sql](sql/basic/34_weather_observation_station_16.sql)             | Not started |
-|  35 | Weather Observation Station 17             | Easy       |        15 | [sql/basic/35_weather_observation_station_17.sql](sql/basic/35_weather_observation_station_17.sql)             | Not started |
-|  36 | Weather Observation Station 18             | Medium     |        25 | [sql/basic/36_weather_observation_station_18.sql](sql/basic/36_weather_observation_station_18.sql)             | Not started |
-|  37 | Weather Observation Station 19             | Medium     |        30 | [sql/basic/37_weather_observation_station_19.sql](sql/basic/37_weather_observation_station_19.sql)             | Not started |
-|  38 | Population Census                          | Easy       |        10 | [sql/basic/38_population_census.sql](sql/basic/38_population_census.sql)                                       | Not started |
-|  39 | African Cities                             | Easy       |        10 | [sql/basic/39_african_cities.sql](sql/basic/39_african_cities.sql)                                             | Not started |
-|  40 | Average Population of Each Continent       | Easy       |        10 | [sql/basic/40_average_population_of_each_continent.sql](sql/basic/40_average_population_of_each_continent.sql) | Not started |
+|  18 | Employee Names                             | Easy       |        10 | [sql/basic/18_employee_names.sql](sql/basic/18_employee_names.sql)                                             | Accepted    |
+|  19 | Employee Salaries                          | Easy       |        10 | [sql/basic/19_employee_salaries.sql](sql/basic/19_employee_salaries.sql)                                       | Accepted    |
+|  20 | Type of Triangle                           | Easy       |        20 | [sql/basic/20_type_of_triangle.sql](sql/basic/20_type_of_triangle.sql)                                         | Accepted    |
+|  21 | The PADS                                   | Medium     |        30 | [sql/basic/21_the_pads.sql](sql/basic/21_the_pads.sql)                                                         | Accepted    |
+|  22 | Revising Aggregations - The Count Function | Easy       |        10 | [sql/basic/22_revising_aggregations_count_function.sql](sql/basic/22_revising_aggregations_count_function.sql) | Accepted    |
+|  23 | Revising Aggregations - The Sum Function   | Easy       |        10 | [sql/basic/23_revising_aggregations_sum_function.sql](sql/basic/23_revising_aggregations_sum_function.sql)     | Accepted    |
+|  24 | Revising Aggregations - Averages           | Easy       |        10 | [sql/basic/24_revising_aggregations_averages.sql](sql/basic/24_revising_aggregations_averages.sql)             | Accepted    |
+|  25 | Average Population                         | Easy       |        10 | [sql/basic/25_average_population.sql](sql/basic/25_average_population.sql)                                     | Accepted    |
+|  26 | Japan Population                           | Easy       |        10 | [sql/basic/26_japan_population.sql](sql/basic/26_japan_population.sql)                                         | Accepted    |
+|  27 | Population Density Difference              | Easy       |        10 | [sql/basic/27_population_density_difference.sql](sql/basic/27_population_density_difference.sql)               | Accepted    |
+|  28 | The Blunder                                | Easy       |        15 | [sql/basic/28_the_blunder.sql](sql/basic/28_the_blunder.sql)                                                   | Accepted    |
+|  29 | Top Earners                                | Easy       |        20 | [sql/basic/29_top_earners.sql](sql/basic/29_top_earners.sql)                                                   | Accepted    |
+|  30 | Weather Observation Station 2              | Easy       |        15 | [sql/basic/30_weather_observation_station_2.sql](sql/basic/30_weather_observation_station_2.sql)               | Accepted    |
+|  31 | Weather Observation Station 13             | Easy       |        10 | [sql/basic/31_weather_observation_station_13.sql](sql/basic/31_weather_observation_station_13.sql)             | Accepted    |
+|  32 | Weather Observation Station 14             | Easy       |        10 | [sql/basic/32_weather_observation_station_14.sql](sql/basic/32_weather_observation_station_14.sql)             | Accepted    |
+|  33 | Weather Observation Station 15             | Easy       |        15 | [sql/basic/33_weather_observation_station_15.sql](sql/basic/33_weather_observation_station_15.sql)             | Accepted    |
+|  34 | Weather Observation Station 16             | Easy       |        10 | [sql/basic/34_weather_observation_station_16.sql](sql/basic/34_weather_observation_station_16.sql)             | Accepted    |
+|  35 | Weather Observation Station 17             | Easy       |        15 | [sql/basic/35_weather_observation_station_17.sql](sql/basic/35_weather_observation_station_17.sql)             | Accepted    |
+|  36 | Weather Observation Station 18             | Medium     |        25 | [sql/basic/36_weather_observation_station_18.sql](sql/basic/36_weather_observation_station_18.sql)             | Accepted    |
+|  37 | Weather Observation Station 19             | Medium     |        30 | [sql/basic/37_weather_observation_station_19.sql](sql/basic/37_weather_observation_station_19.sql)             | Accepted    |
+|  38 | Population Census                          | Easy       |        10 | [sql/basic/38_population_census.sql](sql/basic/38_population_census.sql)                                       | Accepted    |
+|  39 | African Cities                             | Easy       |        10 | [sql/basic/39_african_cities.sql](sql/basic/39_african_cities.sql)                                             | Accepted    |
+|  40 | Average Population of Each Continent       | Easy       |        10 | [sql/basic/40_average_population_of_each_continent.sql](sql/basic/40_average_population_of_each_continent.sql) | Accepted    |
 
 ## Intermediate
 
