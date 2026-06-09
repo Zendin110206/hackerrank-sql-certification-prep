@@ -13,11 +13,11 @@ This log tracks practice progress without overstating certification status.
 
 ## Certification Attempts
 
-| Date | Certification    | Result        | Verification | Notes |
-| ---- | ---------------- | ------------- | ------------ | ----- |
-| TBD  | SQL Basic        | Not attempted | TBD          |       |
-| TBD  | SQL Intermediate | Not attempted | TBD          |       |
-| TBD  | SQL Advanced     | Not attempted | TBD          |       |
+| Date       | Certification    | Result        | Verification                                                          | Notes |
+| ---------- | ---------------- | ------------- | --------------------------------------------------------------------- | ----- |
+| 2026-06-10 | SQL Basic        | Passed        | <https://www.hackerrank.com/certificates/86438a7fe347>                | Certificate ID: 86438A7FE347 |
+| TBD        | SQL Intermediate | Not attempted | TBD                                                                   |       |
+| TBD        | SQL Advanced     | Not attempted | TBD                                                                   |       |
 
 ## Study Sessions
 
@@ -27,16 +27,16 @@ This log tracks practice progress without overstating certification status.
 
 ## Batch Review Notes
 
-Latest checkpoint:
+Latest solution checkpoint:
 
 ```text
-Date: 2026-06-09
-Batch: Basic SELECT/filtering practice and initial station string filtering
-Files: sql/basic/01-17, sql/intermediate/01
-Accepted on HackerRank: 18
-Main corrections: Repository formatting, readable aliases, and concise public explanations.
-Style notes: Public files use English, consistent indentation, explicit output columns, and short task summaries.
-Commit: 23da823 feat(sql): solve station string filtering practice
+Date: 2026-06-10
+Batch: Basic practice completion
+Files: sql/basic/18-40
+Accepted on HackerRank: 23 new solutions, 41 total solutions
+Main corrections: Completed Basic solution files with readable aliases, explicit joins, and numeric function notes.
+Style notes: Basic practice is now fully documented with public-facing explanations.
+Commit: 17eeb6c feat(sql): complete basic practice set
 ```
 
 Template:
@@ -54,6 +54,6 @@ Commit:
 ## Maintenance Notes
 
 - This log is updated after accepted practice batches.
-- Certification status remains `Not attempted` until an actual certification attempt.
+- Certification status remains `Not attempted` for each credential until an actual certification attempt is completed and verified.
 - Verification links are added only after certificates are earned.
 - Live certification content is outside the scope of this public log.

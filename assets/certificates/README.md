@@ -15,3 +15,9 @@ hackerrank-sql-advanced-certificate-YYYY-MM-DD.png
 Certificate images are supporting evidence. Official credential verification links remain the primary source of truth and are listed in the root README after completion.
 
 Images that expose private account information are not part of the public repository scope.
+
+## Earned Certificates
+
+| Credential           | Earned       | File                                                     | Verification                                                          | Iframe View                                                                  |
+| -------------------- | ------------ | -------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| HackerRank SQL Basic | Jun 10, 2026 | `hackerrank-sql-basic-certificate-2026-06-10.png`        | <https://www.hackerrank.com/certificates/86438a7fe347>                | <https://www.hackerrank.com/certificates/iframe/86438a7fe347>                |
