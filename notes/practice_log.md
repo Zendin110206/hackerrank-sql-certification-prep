@@ -6,10 +6,10 @@ This log tracks practice progress without overstating certification status.
 
 | Level        | Completed | Target | Status      |
 | ------------ | --------: | -----: | ----------- |
-| Basic        |         6 |     40 | In progress |
-| Intermediate |         0 |     13 | Not started |
+| Basic        |        17 |     40 | In progress |
+| Intermediate |         1 |     13 | In progress |
 | Advanced     |         0 |      4 | Not started |
-| Total        |         6 |     57 | In progress |
+| Total        |        18 |     57 | In progress |
 
 ## Certification Attempts
 

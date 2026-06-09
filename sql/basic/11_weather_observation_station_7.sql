@@ -3,14 +3,18 @@
 -- Difficulty: Easy
 -- Max score: 10
 -- Concepts: DISTINCT, string pattern filtering
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Pending original task summary.
+-- Return unique city names that end with a vowel.
 --
 -- Query:
--- Pending accepted solution.
+SELECT DISTINCT
+    city
+FROM station
+WHERE LOWER(RIGHT(city, 1)) IN ('a', 'e', 'i', 'o', 'u');
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- DISTINCT keeps each city name once. LOWER and RIGHT check the final
+-- character consistently before comparing it to the vowel list.

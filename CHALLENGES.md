@@ -13,10 +13,10 @@ Status values:
 
 | Level        | Problems | Max Score | Status     |
 | ------------ | -------: | --------: | ---------- |
-| Basic        |       40 |       520 | 6 accepted |
-| Intermediate |       13 |       440 | 0 accepted |
+| Basic        |       40 |       520 | 17 accepted |
+| Intermediate |       13 |       440 | 1 accepted |
 | Advanced     |        4 |       140 | 0 accepted |
-| Total        |       57 |      1100 | 6 accepted |
+| Total        |       57 |      1100 | 18 accepted |
 
 ## Basic
 
@@ -28,17 +28,17 @@ Status values:
 |   4 | Select By ID                               | Easy       |        10 | [sql/basic/04_select_by_id.sql](sql/basic/04_select_by_id.sql)                                                 | Accepted    |
 |   5 | Japanese Cities' Attributes                | Easy       |        10 | [sql/basic/05_japanese_cities_attributes.sql](sql/basic/05_japanese_cities_attributes.sql)                     | Accepted    |
 |   6 | Japanese Cities' Names                     | Easy       |        10 | [sql/basic/06_japanese_cities_names.sql](sql/basic/06_japanese_cities_names.sql)                               | Accepted    |
-|   7 | Weather Observation Station 1              | Easy       |        15 | [sql/basic/07_weather_observation_station_1.sql](sql/basic/07_weather_observation_station_1.sql)               | Not started |
-|   8 | Weather Observation Station 3              | Easy       |        10 | [sql/basic/08_weather_observation_station_3.sql](sql/basic/08_weather_observation_station_3.sql)               | Not started |
-|   9 | Weather Observation Station 4              | Easy       |        10 | [sql/basic/09_weather_observation_station_4.sql](sql/basic/09_weather_observation_station_4.sql)               | Not started |
-|  10 | Weather Observation Station 6              | Easy       |        10 | [sql/basic/10_weather_observation_station_6.sql](sql/basic/10_weather_observation_station_6.sql)               | Not started |
-|  11 | Weather Observation Station 7              | Easy       |        10 | [sql/basic/11_weather_observation_station_7.sql](sql/basic/11_weather_observation_station_7.sql)               | Not started |
-|  12 | Weather Observation Station 8              | Easy       |        15 | [sql/basic/12_weather_observation_station_8.sql](sql/basic/12_weather_observation_station_8.sql)               | Not started |
-|  13 | Weather Observation Station 9              | Easy       |        10 | [sql/basic/13_weather_observation_station_9.sql](sql/basic/13_weather_observation_station_9.sql)               | Not started |
-|  14 | Weather Observation Station 10             | Easy       |        10 | [sql/basic/14_weather_observation_station_10.sql](sql/basic/14_weather_observation_station_10.sql)             | Not started |
-|  15 | Weather Observation Station 11             | Easy       |        15 | [sql/basic/15_weather_observation_station_11.sql](sql/basic/15_weather_observation_station_11.sql)             | Not started |
-|  16 | Weather Observation Station 12             | Easy       |        15 | [sql/basic/16_weather_observation_station_12.sql](sql/basic/16_weather_observation_station_12.sql)             | Not started |
-|  17 | Higher Than 75 Marks                       | Easy       |        15 | [sql/basic/17_higher_than_75_marks.sql](sql/basic/17_higher_than_75_marks.sql)                                 | Not started |
+|   7 | Weather Observation Station 1              | Easy       |        15 | [sql/basic/07_weather_observation_station_1.sql](sql/basic/07_weather_observation_station_1.sql)               | Accepted    |
+|   8 | Weather Observation Station 3              | Easy       |        10 | [sql/basic/08_weather_observation_station_3.sql](sql/basic/08_weather_observation_station_3.sql)               | Accepted    |
+|   9 | Weather Observation Station 4              | Easy       |        10 | [sql/basic/09_weather_observation_station_4.sql](sql/basic/09_weather_observation_station_4.sql)               | Accepted    |
+|  10 | Weather Observation Station 6              | Easy       |        10 | [sql/basic/10_weather_observation_station_6.sql](sql/basic/10_weather_observation_station_6.sql)               | Accepted    |
+|  11 | Weather Observation Station 7              | Easy       |        10 | [sql/basic/11_weather_observation_station_7.sql](sql/basic/11_weather_observation_station_7.sql)               | Accepted    |
+|  12 | Weather Observation Station 8              | Easy       |        15 | [sql/basic/12_weather_observation_station_8.sql](sql/basic/12_weather_observation_station_8.sql)               | Accepted    |
+|  13 | Weather Observation Station 9              | Easy       |        10 | [sql/basic/13_weather_observation_station_9.sql](sql/basic/13_weather_observation_station_9.sql)               | Accepted    |
+|  14 | Weather Observation Station 10             | Easy       |        10 | [sql/basic/14_weather_observation_station_10.sql](sql/basic/14_weather_observation_station_10.sql)             | Accepted    |
+|  15 | Weather Observation Station 11             | Easy       |        15 | [sql/basic/15_weather_observation_station_11.sql](sql/basic/15_weather_observation_station_11.sql)             | Accepted    |
+|  16 | Weather Observation Station 12             | Easy       |        15 | [sql/basic/16_weather_observation_station_12.sql](sql/basic/16_weather_observation_station_12.sql)             | Accepted    |
+|  17 | Higher Than 75 Marks                       | Easy       |        15 | [sql/basic/17_higher_than_75_marks.sql](sql/basic/17_higher_than_75_marks.sql)                                 | Accepted    |
 |  18 | Employee Names                             | Easy       |        10 | [sql/basic/18_employee_names.sql](sql/basic/18_employee_names.sql)                                             | Not started |
 |  19 | Employee Salaries                          | Easy       |        10 | [sql/basic/19_employee_salaries.sql](sql/basic/19_employee_salaries.sql)                                       | Not started |
 |  20 | Type of Triangle                           | Easy       |        20 | [sql/basic/20_type_of_triangle.sql](sql/basic/20_type_of_triangle.sql)                                         | Not started |
@@ -67,7 +67,7 @@ Status values:
 
 | No. | Problem                        | Difficulty | Max Score | File                                                                                                             | Status      |
 | --: | ------------------------------ | ---------- | --------: | ---------------------------------------------------------------------------------------------------------------- | ----------- |
-|   1 | Weather Observation Station 5  | Easy       |        30 | [sql/intermediate/01_weather_observation_station_5.sql](sql/intermediate/01_weather_observation_station_5.sql)   | Not started |
+|   1 | Weather Observation Station 5  | Easy       |        30 | [sql/intermediate/01_weather_observation_station_5.sql](sql/intermediate/01_weather_observation_station_5.sql)   | Accepted    |
 |   2 | Binary Tree Nodes              | Medium     |        30 | [sql/intermediate/02_binary_tree_nodes.sql](sql/intermediate/02_binary_tree_nodes.sql)                           | Not started |
 |   3 | New Companies                  | Medium     |        30 | [sql/intermediate/03_new_companies.sql](sql/intermediate/03_new_companies.sql)                                   | Not started |
 |   4 | Weather Observation Station 20 | Medium     |        40 | [sql/intermediate/04_weather_observation_station_20.sql](sql/intermediate/04_weather_observation_station_20.sql) | Not started |

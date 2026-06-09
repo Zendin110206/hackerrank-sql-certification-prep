@@ -2,15 +2,20 @@
 -- Track: SQL Basic
 -- Difficulty: Easy
 -- Max score: 15
--- Concepts: DISTINCT, string pattern filtering, combined conditions
--- Status: Not started
+-- Concepts: DISTINCT, string pattern filtering, AND logic
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Pending original task summary.
+-- Return unique city names that start and end with vowels.
 --
 -- Query:
--- Pending accepted solution.
+SELECT DISTINCT
+    city
+FROM station
+WHERE LOWER(LEFT(city, 1)) IN ('a', 'e', 'i', 'o', 'u')
+  AND LOWER(RIGHT(city, 1)) IN ('a', 'e', 'i', 'o', 'u');
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The first condition checks the starting character and the second condition
+-- checks the ending character. AND requires both vowel checks to be true.

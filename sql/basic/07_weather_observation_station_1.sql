@@ -3,14 +3,18 @@
 -- Difficulty: Easy
 -- Max score: 15
 -- Concepts: SELECT, column projection
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Pending original task summary.
+-- Return the city and state columns from the STATION table.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    city,
+    state
+FROM station;
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The query uses explicit column projection because only CITY and STATE are
+-- requested. No filtering or ordering is needed for this task.
