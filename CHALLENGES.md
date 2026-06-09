@@ -13,21 +13,21 @@ Status values:
 
 | Level        | Problems | Max Score | Status     |
 | ------------ | -------: | --------: | ---------- |
-| Basic        |       40 |       520 | 0 accepted |
+| Basic        |       40 |       520 | 6 accepted |
 | Intermediate |       13 |       440 | 0 accepted |
 | Advanced     |        4 |       140 | 0 accepted |
-| Total        |       57 |      1100 | 0 accepted |
+| Total        |       57 |      1100 | 6 accepted |
 
 ## Basic
 
 | No. | Problem                                    | Difficulty | Max Score | File                                                                                                           | Status      |
 | --: | ------------------------------------------ | ---------- | --------: | -------------------------------------------------------------------------------------------------------------- | ----------- |
-|   1 | Revising the Select Query I                | Easy       |        10 | [sql/basic/01_revising_the_select_query_i.sql](sql/basic/01_revising_the_select_query_i.sql)                   | Not started |
-|   2 | Revising the Select Query II               | Easy       |        10 | [sql/basic/02_revising_the_select_query_ii.sql](sql/basic/02_revising_the_select_query_ii.sql)                 | Not started |
-|   3 | Select All                                 | Easy       |        10 | [sql/basic/03_select_all.sql](sql/basic/03_select_all.sql)                                                     | Not started |
-|   4 | Select By ID                               | Easy       |        10 | [sql/basic/04_select_by_id.sql](sql/basic/04_select_by_id.sql)                                                 | Not started |
-|   5 | Japanese Cities' Attributes                | Easy       |        10 | [sql/basic/05_japanese_cities_attributes.sql](sql/basic/05_japanese_cities_attributes.sql)                     | Not started |
-|   6 | Japanese Cities' Names                     | Easy       |        10 | [sql/basic/06_japanese_cities_names.sql](sql/basic/06_japanese_cities_names.sql)                               | Not started |
+|   1 | Revising the Select Query I                | Easy       |        10 | [sql/basic/01_revising_the_select_query_i.sql](sql/basic/01_revising_the_select_query_i.sql)                   | Accepted    |
+|   2 | Revising the Select Query II               | Easy       |        10 | [sql/basic/02_revising_the_select_query_ii.sql](sql/basic/02_revising_the_select_query_ii.sql)                 | Accepted    |
+|   3 | Select All                                 | Easy       |        10 | [sql/basic/03_select_all.sql](sql/basic/03_select_all.sql)                                                     | Accepted    |
+|   4 | Select By ID                               | Easy       |        10 | [sql/basic/04_select_by_id.sql](sql/basic/04_select_by_id.sql)                                                 | Accepted    |
+|   5 | Japanese Cities' Attributes                | Easy       |        10 | [sql/basic/05_japanese_cities_attributes.sql](sql/basic/05_japanese_cities_attributes.sql)                     | Accepted    |
+|   6 | Japanese Cities' Names                     | Easy       |        10 | [sql/basic/06_japanese_cities_names.sql](sql/basic/06_japanese_cities_names.sql)                               | Accepted    |
 |   7 | Weather Observation Station 1              | Easy       |        15 | [sql/basic/07_weather_observation_station_1.sql](sql/basic/07_weather_observation_station_1.sql)               | Not started |
 |   8 | Weather Observation Station 3              | Easy       |        10 | [sql/basic/08_weather_observation_station_3.sql](sql/basic/08_weather_observation_station_3.sql)               | Not started |
 |   9 | Weather Observation Station 4              | Easy       |        10 | [sql/basic/09_weather_observation_station_4.sql](sql/basic/09_weather_observation_station_4.sql)               | Not started |

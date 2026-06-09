@@ -6,10 +6,10 @@ This log tracks practice progress without overstating certification status.
 
 | Level        | Completed | Target | Status      |
 | ------------ | --------: | -----: | ----------- |
-| Basic        |         0 |     40 | Not started |
+| Basic        |         6 |     40 | In progress |
 | Intermediate |         0 |     13 | Not started |
 | Advanced     |         0 |      4 | Not started |
-| Total        |         0 |     57 | Not started |
+| Total        |         6 |     57 | In progress |
 
 ## Certification Attempts
 
@@ -21,9 +21,7 @@ This log tracks practice progress without overstating certification status.
 
 ## Study Sessions
 
-| Date       | Scope                 | Accepted Problems | Review Status       | Notes                                           |
-| ---------- | --------------------- | ----------------: | ------------------- | ----------------------------------------------- |
-| 2026-06-09 | Repository foundation |                 0 | Foundation prepared | Public roadmap and solution templates prepared. |
+Detailed dated study-session entries are added when a study day or practice batch is closed.
 
 ## Batch Review Notes
 

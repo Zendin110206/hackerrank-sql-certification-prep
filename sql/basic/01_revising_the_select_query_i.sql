@@ -3,14 +3,20 @@
 -- Difficulty: Easy
 -- Max score: 10
 -- Concepts: SELECT, WHERE, numeric filtering, text filtering
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Return city records that match the requested country and population conditions.
+-- Return all CITY records for American cities with population above the required threshold.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    *
+FROM city
+WHERE countrycode = 'USA'
+  AND population > 100000;
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The query returns every column because the problem asks for all city attributes.
+-- It filters the CITY table to American cities and keeps only rows with population
+-- greater than 100000.

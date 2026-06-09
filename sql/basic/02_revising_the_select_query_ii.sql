@@ -3,14 +3,19 @@
 -- Difficulty: Easy
 -- Max score: 10
 -- Concepts: SELECT, WHERE, column projection, numeric filtering
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Return only the requested city names after applying the required filters.
+-- Return city names for American cities with population above the required threshold.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    name
+FROM city
+WHERE countrycode = 'USA'
+  AND population > 120000;
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The query selects only the name column because the problem asks for city names.
+-- It applies both the country code filter and the population threshold filter.

@@ -3,14 +3,17 @@
 -- Difficulty: Easy
 -- Max score: 10
 -- Concepts: SELECT all columns
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
 -- Return every column from the target table.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    *
+FROM city;
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The query returns every column from the CITY table because the problem asks for
+-- all attributes for every row.

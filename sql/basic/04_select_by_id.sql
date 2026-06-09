@@ -3,14 +3,18 @@
 -- Difficulty: Easy
 -- Max score: 10
 -- Concepts: SELECT, WHERE, ID filtering
--- Status: Not started
+-- Status: Accepted
 -- Source: HackerRank SQL practice
 --
 -- Task summary:
--- Return the row that matches the requested ID value.
+-- Return all CITY columns for the row with the requested ID.
 --
 -- Query:
--- Pending accepted solution.
+SELECT
+    *
+FROM city
+WHERE id = 1661;
 --
 -- Explanation:
--- Pending explanation after acceptance.
+-- The query returns all columns because the task asks for the full city record.
+-- The WHERE clause keeps only the row whose ID matches the requested value.
