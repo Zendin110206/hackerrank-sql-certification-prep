@@ -21,9 +21,25 @@ This log tracks practice progress without overstating certification status.
 
 ## Study Sessions
 
-Detailed dated study-session entries are added when a study day or practice batch is closed.
+| Date       | Timezone     | Scope                                          | Accepted Progress | Notes                                                                 |
+| ---------- | ------------ | ---------------------------------------------- | ----------------- | --------------------------------------------------------------------- |
+| 2026-06-09 | WIB (UTC+7)  | SQL Basic foundation and station string review | 18 of 57          | Closed the first documented practice day with 17 Basic solutions and 1 Intermediate solution recorded. |
 
 ## Batch Review Notes
+
+Latest checkpoint:
+
+```text
+Date: 2026-06-09
+Batch: Basic SELECT/filtering practice and initial station string filtering
+Files: sql/basic/01-17, sql/intermediate/01
+Accepted on HackerRank: 18
+Main corrections: Repository formatting, readable aliases, and concise public explanations.
+Style notes: Public files use English, consistent indentation, explicit output columns, and short task summaries.
+Commit: 23da823 feat(sql): solve station string filtering practice
+```
+
+Template:
 
 ```text
 Date:
