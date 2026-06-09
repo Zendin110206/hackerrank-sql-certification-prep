@@ -1,0 +1,16 @@
+-- Problem: SQL Project Planning
+-- Track: SQL Intermediate
+-- Difficulty: Medium
+-- Max score: 40
+-- Concepts: date ranges, grouping consecutive records, sorting
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

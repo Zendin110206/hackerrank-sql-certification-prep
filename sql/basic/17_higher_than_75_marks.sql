@@ -1,0 +1,16 @@
+-- Problem: Higher Than 75 Marks
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 15
+-- Concepts: WHERE, ORDER BY, string functions
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

@@ -1,0 +1,16 @@
+-- Problem: Employee Salaries
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 10
+-- Concepts: WHERE, ORDER BY, numeric filtering
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

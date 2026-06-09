@@ -1,0 +1,32 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.crt
+
+# Temporary and generated files
+*.tmp
+*.bak
+*.log
+*.cache
+exports/
+reports/
+
+# Local-only notes
+private_notes/
+
+# Private browser or account artifacts
+*.har
+session*.json
+cookies*.json
+assets/private/
+assets/screenshots/private/

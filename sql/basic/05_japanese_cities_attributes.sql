@@ -1,0 +1,16 @@
+-- Problem: Japanese Cities' Attributes
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 10
+-- Concepts: SELECT all columns, WHERE, country code filtering
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Return all attributes for city records from the requested country.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

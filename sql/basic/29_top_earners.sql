@@ -1,0 +1,16 @@
+-- Problem: Top Earners
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 20
+-- Concepts: arithmetic expression, MAX, COUNT, GROUP BY
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

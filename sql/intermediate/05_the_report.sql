@@ -1,0 +1,16 @@
+-- Problem: The Report
+-- Track: SQL Intermediate
+-- Difficulty: Medium
+-- Max score: 20
+-- Concepts: range join, CASE-style output, sorting
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

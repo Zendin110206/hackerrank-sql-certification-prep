@@ -1,0 +1,16 @@
+-- Problem: Challenges
+-- Track: SQL Intermediate
+-- Difficulty: Medium
+-- Max score: 30
+-- Concepts: GROUP BY, COUNT, duplicate handling, sorting
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

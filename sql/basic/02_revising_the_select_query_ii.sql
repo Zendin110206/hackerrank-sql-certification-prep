@@ -1,0 +1,16 @@
+-- Problem: Revising the Select Query II
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 10
+-- Concepts: SELECT, WHERE, column projection, numeric filtering
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Return only the requested city names after applying the required filters.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

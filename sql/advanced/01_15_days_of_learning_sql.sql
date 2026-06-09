@@ -1,0 +1,16 @@
+-- Problem: 15 Days of Learning SQL
+-- Track: SQL Advanced
+-- Difficulty: Hard
+-- Max score: 50
+-- Concepts: dates, streaks, grouping, ranking
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

@@ -1,0 +1,16 @@
+-- Problem: Weather Observation Station 11
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 15
+-- Concepts: DISTINCT, string pattern filtering, OR logic
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

@@ -1,0 +1,16 @@
+-- Problem: The PADS
+-- Track: SQL Basic
+-- Difficulty: Medium
+-- Max score: 30
+-- Concepts: string formatting, aggregation, ordering
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

@@ -1,0 +1,16 @@
+-- Problem: Weather Observation Station 18
+-- Track: SQL Basic
+-- Difficulty: Medium
+-- Max score: 25
+-- Concepts: aggregate coordinates, arithmetic expression, numeric formatting
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

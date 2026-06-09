@@ -1,0 +1,16 @@
+-- Problem: Print Prime Numbers
+-- Track: SQL Advanced
+-- Difficulty: Medium
+-- Max score: 40
+-- Concepts: generated numbers, primality test, string aggregation
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

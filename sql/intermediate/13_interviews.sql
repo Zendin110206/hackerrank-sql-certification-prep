@@ -1,0 +1,16 @@
+-- Problem: Interviews
+-- Track: SQL Intermediate
+-- Difficulty: Hard
+-- Max score: 50
+-- Concepts: multiple joins, aggregation, NULL handling, filtering
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

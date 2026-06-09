@@ -1,0 +1,16 @@
+-- Problem: Type of Triangle
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 20
+-- Concepts: CASE, conditional logic, data validation
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

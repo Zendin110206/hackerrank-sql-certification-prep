@@ -1,0 +1,16 @@
+-- Problem: Weather Observation Station 20
+-- Track: SQL Intermediate
+-- Difficulty: Medium
+-- Max score: 40
+-- Concepts: median, ordering, row position logic
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

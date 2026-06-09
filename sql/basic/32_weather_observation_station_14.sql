@@ -1,0 +1,16 @@
+-- Problem: Weather Observation Station 14
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 10
+-- Concepts: MAX, range filtering, numeric formatting
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

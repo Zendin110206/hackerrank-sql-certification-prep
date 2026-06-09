@@ -1,0 +1,16 @@
+-- Problem: The Blunder
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 15
+-- Concepts: AVG, string replacement, rounding
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

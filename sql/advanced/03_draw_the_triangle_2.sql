@@ -1,0 +1,16 @@
+-- Problem: Draw The Triangle 2
+-- Track: SQL Advanced
+-- Difficulty: Easy
+-- Max score: 25
+-- Concepts: generated rows, repeated string output
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

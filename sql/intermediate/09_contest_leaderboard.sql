@@ -1,0 +1,16 @@
+-- Problem: Contest Leaderboard
+-- Track: SQL Intermediate
+-- Difficulty: Medium
+-- Max score: 30
+-- Concepts: subquery or CTE, MAX per group, SUM, sorting
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Pending original task summary.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

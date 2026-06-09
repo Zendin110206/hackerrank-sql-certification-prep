@@ -1,0 +1,16 @@
+-- Problem: Revising the Select Query I
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 10
+-- Concepts: SELECT, WHERE, numeric filtering, text filtering
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Return city records that match the requested country and population conditions.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.

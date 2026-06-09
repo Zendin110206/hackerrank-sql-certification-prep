@@ -1,0 +1,16 @@
+-- Problem: Select All
+-- Track: SQL Basic
+-- Difficulty: Easy
+-- Max score: 10
+-- Concepts: SELECT all columns
+-- Status: Not started
+-- Source: HackerRank SQL practice
+--
+-- Task summary:
+-- Return every column from the target table.
+--
+-- Query:
+-- Pending accepted solution.
+--
+-- Explanation:
+-- Pending explanation after acceptance.
