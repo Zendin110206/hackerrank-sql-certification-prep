@@ -24,6 +24,7 @@ This log tracks practice progress without overstating certification status.
 | Date       | Timezone     | Scope                                          | Accepted Progress | Notes                                                                 |
 | ---------- | ------------ | ---------------------------------------------- | ----------------- | --------------------------------------------------------------------- |
 | 2026-06-09 | WIB (UTC+7)  | SQL Basic foundation and station string review | 18 of 57          | Closed the first documented practice day with 17 Basic solutions and 1 Intermediate solution recorded. |
+| 2026-06-10 | WIB (UTC+7)  | Basic completion, certification, and Intermediate practice | 44 of 57          | Completed the Basic practice set, earned the SQL Basic certificate, and documented the first Intermediate practice batch. |
 
 ## Batch Review Notes
 
