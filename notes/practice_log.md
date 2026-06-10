@@ -7,9 +7,9 @@ This log tracks practice progress without overstating certification status.
 | Level        | Completed | Target | Status      |
 | ------------ | --------: | -----: | ----------- |
 | Basic        |        40 |     40 | Complete    |
-| Intermediate |         1 |     13 | In progress |
+| Intermediate |         4 |     13 | In progress |
 | Advanced     |         0 |      4 | Not started |
-| Total        |        41 |     57 | In progress |
+| Total        |        44 |     57 | In progress |
 
 ## Certification Attempts
 
@@ -31,12 +31,12 @@ Latest solution checkpoint:
 
 ```text
 Date: 2026-06-10
-Batch: Basic practice completion
-Files: sql/basic/18-40
-Accepted on HackerRank: 23 new solutions, 41 total solutions
-Main corrections: Completed Basic solution files with readable aliases, explicit joins, and numeric function notes.
-Style notes: Basic practice is now fully documented with public-facing explanations.
-Commit: 17eeb6c feat(sql): complete basic practice set
+Batch: Intermediate tree, company, and leaderboard practice
+Files: sql/intermediate/02, sql/intermediate/03, sql/intermediate/09
+Accepted on HackerRank: 3 new solutions, 44 total solutions
+Main corrections: Added clear node classification, distinct hierarchy counts, and max-score aggregation.
+Style notes: Intermediate queries use readable aliases, CTEs where helpful, and explicit ordering.
+Commit: feat(sql): solve intermediate aggregation practice
 ```
 
 Template:

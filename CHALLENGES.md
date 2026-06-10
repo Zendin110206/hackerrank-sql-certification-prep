@@ -14,9 +14,9 @@ Status values:
 | Level        | Problems | Max Score | Status     |
 | ------------ | -------: | --------: | ---------- |
 | Basic        |       40 |       520 | 40 accepted |
-| Intermediate |       13 |       440 | 1 accepted |
+| Intermediate |       13 |       440 | 4 accepted |
 | Advanced     |        4 |       140 | 0 accepted |
-| Total        |       57 |      1100 | 41 accepted |
+| Total        |       57 |      1100 | 44 accepted |
 
 ## Basic
 
@@ -68,14 +68,14 @@ Status values:
 | No. | Problem                        | Difficulty | Max Score | File                                                                                                             | Status      |
 | --: | ------------------------------ | ---------- | --------: | ---------------------------------------------------------------------------------------------------------------- | ----------- |
 |   1 | Weather Observation Station 5  | Easy       |        30 | [sql/intermediate/01_weather_observation_station_5.sql](sql/intermediate/01_weather_observation_station_5.sql)   | Accepted    |
-|   2 | Binary Tree Nodes              | Medium     |        30 | [sql/intermediate/02_binary_tree_nodes.sql](sql/intermediate/02_binary_tree_nodes.sql)                           | Not started |
-|   3 | New Companies                  | Medium     |        30 | [sql/intermediate/03_new_companies.sql](sql/intermediate/03_new_companies.sql)                                   | Not started |
+|   2 | Binary Tree Nodes              | Medium     |        30 | [sql/intermediate/02_binary_tree_nodes.sql](sql/intermediate/02_binary_tree_nodes.sql)                           | Accepted    |
+|   3 | New Companies                  | Medium     |        30 | [sql/intermediate/03_new_companies.sql](sql/intermediate/03_new_companies.sql)                                   | Accepted    |
 |   4 | Weather Observation Station 20 | Medium     |        40 | [sql/intermediate/04_weather_observation_station_20.sql](sql/intermediate/04_weather_observation_station_20.sql) | Not started |
 |   5 | The Report                     | Medium     |        20 | [sql/intermediate/05_the_report.sql](sql/intermediate/05_the_report.sql)                                         | Not started |
 |   6 | Top Competitors                | Medium     |        30 | [sql/intermediate/06_top_competitors.sql](sql/intermediate/06_top_competitors.sql)                               | Not started |
 |   7 | Ollivander's Inventory         | Medium     |        30 | [sql/intermediate/07_ollivanders_inventory.sql](sql/intermediate/07_ollivanders_inventory.sql)                   | Not started |
 |   8 | Challenges                     | Medium     |        30 | [sql/intermediate/08_challenges.sql](sql/intermediate/08_challenges.sql)                                         | Not started |
-|   9 | Contest Leaderboard            | Medium     |        30 | [sql/intermediate/09_contest_leaderboard.sql](sql/intermediate/09_contest_leaderboard.sql)                       | Not started |
+|   9 | Contest Leaderboard            | Medium     |        30 | [sql/intermediate/09_contest_leaderboard.sql](sql/intermediate/09_contest_leaderboard.sql)                       | Accepted    |
 |  10 | SQL Project Planning           | Medium     |        40 | [sql/intermediate/10_sql_project_planning.sql](sql/intermediate/10_sql_project_planning.sql)                     | Not started |
 |  11 | Placements                     | Medium     |        40 | [sql/intermediate/11_placements.sql](sql/intermediate/11_placements.sql)                                         | Not started |
 |  12 | Symmetric Pairs                | Medium     |        40 | [sql/intermediate/12_symmetric_pairs.sql](sql/intermediate/12_symmetric_pairs.sql)                               | Not started |

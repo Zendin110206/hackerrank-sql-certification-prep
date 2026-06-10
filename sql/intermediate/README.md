@@ -1,6 +1,11 @@
 # Intermediate SQL Practice
 
-This folder contains 13 Intermediate-level HackerRank SQL practice templates.
+This folder contains 13 Intermediate-level HackerRank SQL practice files.
+
+## Current Status
+
+4 of 13 Intermediate-level practice files are accepted on HackerRank and
+documented in this repository.
 
 ## Focus Areas
 
@@ -14,8 +19,6 @@ This folder contains 13 Intermediate-level HackerRank SQL practice templates.
 - multi-step query logic.
 
 ## Completion Standard
-
-Intermediate solutions are documented after the Basic foundation is stable.
 
 Each accepted solution includes:
 
