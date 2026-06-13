@@ -14,9 +14,9 @@ Status values:
 | Level        | Problems | Max Score | Status     |
 | ------------ | -------: | --------: | ---------- |
 | Basic        |       40 |       520 | 40 accepted |
-| Intermediate |       13 |       440 | 8 accepted |
+| Intermediate |       13 |       440 | 11 accepted |
 | Advanced     |        4 |       140 | 0 accepted |
-| Total        |       57 |      1100 | 48 accepted |
+| Total        |       57 |      1100 | 51 accepted |
 
 ## Basic
 
@@ -72,9 +72,9 @@ Status values:
 |   3 | New Companies                  | Medium     |        30 | [sql/intermediate/03_new_companies.sql](sql/intermediate/03_new_companies.sql)                                   | Accepted    |
 |   4 | Weather Observation Station 20 | Medium     |        40 | [sql/intermediate/04_weather_observation_station_20.sql](sql/intermediate/04_weather_observation_station_20.sql) | Accepted    |
 |   5 | The Report                     | Medium     |        20 | [sql/intermediate/05_the_report.sql](sql/intermediate/05_the_report.sql)                                         | Accepted    |
-|   6 | Top Competitors                | Medium     |        30 | [sql/intermediate/06_top_competitors.sql](sql/intermediate/06_top_competitors.sql)                               | Not started |
-|   7 | Ollivander's Inventory         | Medium     |        30 | [sql/intermediate/07_ollivanders_inventory.sql](sql/intermediate/07_ollivanders_inventory.sql)                   | Not started |
-|   8 | Challenges                     | Medium     |        30 | [sql/intermediate/08_challenges.sql](sql/intermediate/08_challenges.sql)                                         | Not started |
+|   6 | Top Competitors                | Medium     |        30 | [sql/intermediate/06_top_competitors.sql](sql/intermediate/06_top_competitors.sql)                               | Accepted    |
+|   7 | Ollivander's Inventory         | Medium     |        30 | [sql/intermediate/07_ollivanders_inventory.sql](sql/intermediate/07_ollivanders_inventory.sql)                   | Accepted    |
+|   8 | Challenges                     | Medium     |        30 | [sql/intermediate/08_challenges.sql](sql/intermediate/08_challenges.sql)                                         | Accepted    |
 |   9 | Contest Leaderboard            | Medium     |        30 | [sql/intermediate/09_contest_leaderboard.sql](sql/intermediate/09_contest_leaderboard.sql)                       | Accepted    |
 |  10 | SQL Project Planning           | Medium     |        40 | [sql/intermediate/10_sql_project_planning.sql](sql/intermediate/10_sql_project_planning.sql)                     | Accepted    |
 |  11 | Placements                     | Medium     |        40 | [sql/intermediate/11_placements.sql](sql/intermediate/11_placements.sql)                                         | Not started |
