@@ -31,7 +31,7 @@ The work here focuses on:
 | Intermediate practice solutions | Complete      |
 | Advanced practice solutions     | In progress   |
 | Solved practice problems        | 55 of 57      |
-| Certification status            | SQL Basic earned |
+| Certification status            | SQL Basic and SQL Intermediate earned |
 
 ## Certification Direction
 
@@ -57,7 +57,8 @@ This repository is for preparation and practice documentation. It does not conta
 |   |-- README.md
 |   |-- certificates/
 |   |   |-- README.md
-|   |   `-- hackerrank-sql-basic-certificate-2026-06-10.png
+|   |   |-- hackerrank-sql-basic-certificate-2026-06-10.png
+|   |   `-- hackerrank-sql-intermediate-certificate-2026-06-14.png
 |   `-- screenshots/
 |       `-- README.md
 |-- docs/
@@ -141,7 +142,7 @@ official credential link.
 | Credential                  | Status  | Earned       | Verification                                                                 | Evidence                                                                                          |
 | --------------------------- | ------- | ------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | HackerRank SQL Basic        | Earned  | Jun 10, 2026 | [Official link](https://www.hackerrank.com/certificates/86438a7fe347)        | [Certificate image](assets/certificates/hackerrank-sql-basic-certificate-2026-06-10.png)          |
-| HackerRank SQL Intermediate | Planned | TBD          | To be added after completion                                                  | To be added after completion                                                                      |
+| HackerRank SQL Intermediate | Earned  | Jun 14, 2026 | [Official link](https://www.hackerrank.com/certificates/8c305d999682)        | [Certificate image](assets/certificates/hackerrank-sql-intermediate-certificate-2026-06-14.png)   |
 | HackerRank SQL Advanced     | Planned | TBD          | To be added after completion                                                  | To be added after completion                                                                      |
 
 Public-safe certificate images can be stored in [assets/certificates](assets/certificates) after completion. Official credential links remain the primary verification source.

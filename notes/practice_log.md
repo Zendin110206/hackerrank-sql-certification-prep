@@ -16,7 +16,7 @@ This log tracks practice progress without overstating certification status.
 | Date       | Certification    | Result        | Verification                                                          | Notes |
 | ---------- | ---------------- | ------------- | --------------------------------------------------------------------- | ----- |
 | 2026-06-10 | SQL Basic        | Passed        | <https://www.hackerrank.com/certificates/86438a7fe347>                | Certificate ID: 86438A7FE347 |
-| TBD        | SQL Intermediate | Not attempted | TBD                                                                   |       |
+| 2026-06-14 | SQL Intermediate | Passed        | <https://www.hackerrank.com/certificates/8c305d999682>                | Certificate ID: 8C305D999682 |
 | TBD        | SQL Advanced     | Not attempted | TBD                                                                   |       |
 
 ## Study Sessions

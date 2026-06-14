@@ -18,6 +18,7 @@ Images that expose private account information are not part of the public reposi
 
 ## Earned Certificates
 
-| Credential           | Earned       | File                                                     | Verification                                                          | Iframe View                                                                  |
-| -------------------- | ------------ | -------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| HackerRank SQL Basic | Jun 10, 2026 | `hackerrank-sql-basic-certificate-2026-06-10.png`        | <https://www.hackerrank.com/certificates/86438a7fe347>                | <https://www.hackerrank.com/certificates/iframe/86438a7fe347>                |
+| Credential                  | Earned       | File                                                     | Verification                                           | Iframe View                                                   |
+| --------------------------- | ------------ | -------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------- |
+| HackerRank SQL Basic        | Jun 10, 2026 | `hackerrank-sql-basic-certificate-2026-06-10.png`        | <https://www.hackerrank.com/certificates/86438a7fe347> | <https://www.hackerrank.com/certificates/iframe/86438a7fe347> |
+| HackerRank SQL Intermediate | Jun 14, 2026 | `hackerrank-sql-intermediate-certificate-2026-06-14.png` | <https://www.hackerrank.com/certificates/8c305d999682> | <https://www.hackerrank.com/certificates/iframe/8c305d999682> |
