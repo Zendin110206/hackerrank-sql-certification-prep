@@ -4,7 +4,7 @@ This folder contains 13 Intermediate-level HackerRank SQL practice files.
 
 ## Current Status
 
-11 of 13 Intermediate-level practice files are accepted on HackerRank and
+13 of 13 Intermediate-level practice files are accepted on HackerRank and
 documented in this repository.
 
 ## Focus Areas

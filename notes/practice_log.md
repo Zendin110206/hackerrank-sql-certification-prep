@@ -7,9 +7,9 @@ This log tracks practice progress without overstating certification status.
 | Level        | Completed | Target | Status      |
 | ------------ | --------: | -----: | ----------- |
 | Basic        |        40 |     40 | Complete    |
-| Intermediate |        11 |     13 | In progress |
-| Advanced     |         0 |      4 | Not started |
-| Total        |        51 |     57 | In progress |
+| Intermediate |        13 |     13 | Complete    |
+| Advanced     |         2 |      4 | In progress |
+| Total        |        55 |     57 | In progress |
 
 ## Certification Attempts
 
@@ -34,13 +34,13 @@ This log tracks practice progress without overstating certification status.
 Latest solution checkpoint:
 
 ```text
-Date: 2026-06-13
-Batch: Intermediate full-score, wand pricing, and challenge count rules
-Files: sql/intermediate/06, sql/intermediate/07, sql/intermediate/08
-Accepted on HackerRank: 3 new solutions, 51 total solutions
-Main corrections: Added full-score challenge filtering, minimum wand price grouping, and duplicate challenge-count rules.
-Style notes: Intermediate queries use descriptive CTEs, explicit joins, and stable ordering.
-Commit: feat(sql): solve intermediate filtering practice
+Date: 2026-06-14
+Batch: Intermediate completion and advanced triangle patterns
+Files: sql/intermediate/11, sql/intermediate/13, sql/advanced/02, sql/advanced/03
+Accepted on HackerRank: 4 new solutions, 55 total solutions
+Main corrections: Added salary comparison joins, pre-aggregated interview metrics, and recursive pattern generation.
+Style notes: Intermediate completion uses clear join aliases and aggregate safeguards; advanced pattern files use recursive CTEs.
+Commit: feat(sql): complete intermediate and triangle practice
 ```
 
 Template:

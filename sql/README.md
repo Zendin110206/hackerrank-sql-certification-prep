@@ -4,9 +4,9 @@ This directory stores SQL practice files organized by HackerRank SQL level.
 
 ## Levels
 
-- `basic/` stores 40 Basic practice templates.
-- `intermediate/` stores 13 Intermediate practice templates.
-- `advanced/` stores 4 Advanced practice templates.
+- `basic/` stores 40 Basic practice files.
+- `intermediate/` stores 13 Intermediate practice files.
+- `advanced/` stores 4 Advanced practice files.
 
 ## File Convention
 

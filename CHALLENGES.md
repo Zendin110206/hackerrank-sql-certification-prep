@@ -14,9 +14,9 @@ Status values:
 | Level        | Problems | Max Score | Status     |
 | ------------ | -------: | --------: | ---------- |
 | Basic        |       40 |       520 | 40 accepted |
-| Intermediate |       13 |       440 | 11 accepted |
-| Advanced     |        4 |       140 | 0 accepted |
-| Total        |       57 |      1100 | 51 accepted |
+| Intermediate |       13 |       440 | 13 accepted |
+| Advanced     |        4 |       140 | 2 accepted |
+| Total        |       57 |      1100 | 55 accepted |
 
 ## Basic
 
@@ -77,15 +77,15 @@ Status values:
 |   8 | Challenges                     | Medium     |        30 | [sql/intermediate/08_challenges.sql](sql/intermediate/08_challenges.sql)                                         | Accepted    |
 |   9 | Contest Leaderboard            | Medium     |        30 | [sql/intermediate/09_contest_leaderboard.sql](sql/intermediate/09_contest_leaderboard.sql)                       | Accepted    |
 |  10 | SQL Project Planning           | Medium     |        40 | [sql/intermediate/10_sql_project_planning.sql](sql/intermediate/10_sql_project_planning.sql)                     | Accepted    |
-|  11 | Placements                     | Medium     |        40 | [sql/intermediate/11_placements.sql](sql/intermediate/11_placements.sql)                                         | Not started |
+|  11 | Placements                     | Medium     |        40 | [sql/intermediate/11_placements.sql](sql/intermediate/11_placements.sql)                                         | Accepted    |
 |  12 | Symmetric Pairs                | Medium     |        40 | [sql/intermediate/12_symmetric_pairs.sql](sql/intermediate/12_symmetric_pairs.sql)                               | Accepted    |
-|  13 | Interviews                     | Hard       |        50 | [sql/intermediate/13_interviews.sql](sql/intermediate/13_interviews.sql)                                         | Not started |
+|  13 | Interviews                     | Hard       |        50 | [sql/intermediate/13_interviews.sql](sql/intermediate/13_interviews.sql)                                         | Accepted    |
 
 ## Advanced
 
 | No. | Problem                 | Difficulty | Max Score | File                                                                                       | Status      |
 | --: | ----------------------- | ---------- | --------: | ------------------------------------------------------------------------------------------ | ----------- |
 |   1 | 15 Days of Learning SQL | Hard       |        50 | [sql/advanced/01_15_days_of_learning_sql.sql](sql/advanced/01_15_days_of_learning_sql.sql) | Not started |
-|   2 | Draw The Triangle 1     | Easy       |        25 | [sql/advanced/02_draw_the_triangle_1.sql](sql/advanced/02_draw_the_triangle_1.sql)         | Not started |
-|   3 | Draw The Triangle 2     | Easy       |        25 | [sql/advanced/03_draw_the_triangle_2.sql](sql/advanced/03_draw_the_triangle_2.sql)         | Not started |
+|   2 | Draw The Triangle 1     | Easy       |        25 | [sql/advanced/02_draw_the_triangle_1.sql](sql/advanced/02_draw_the_triangle_1.sql)         | Accepted    |
+|   3 | Draw The Triangle 2     | Easy       |        25 | [sql/advanced/03_draw_the_triangle_2.sql](sql/advanced/03_draw_the_triangle_2.sql)         | Accepted    |
 |   4 | Print Prime Numbers     | Medium     |        40 | [sql/advanced/04_print_prime_numbers.sql](sql/advanced/04_print_prime_numbers.sql)         | Not started |
