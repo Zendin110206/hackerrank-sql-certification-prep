@@ -28,6 +28,7 @@ This log tracks practice progress without overstating certification status.
 | 2026-06-11 | WIB (UTC+7)  | Rest and review day                            | 44 of 57          | No new accepted solutions were recorded. |
 | 2026-06-12 | WIB (UTC+7)  | Intermediate median, report, project planning, and symmetric pairs | 48 of 57          | Documented four accepted Intermediate solutions and kept certification status unchanged. |
 | 2026-06-13 | WIB (UTC+7)  | Intermediate full-score, wand pricing, and challenge count practice | 51 of 57          | Documented three accepted Intermediate solutions and closed the current study checkpoint. |
+| 2026-06-14 | WIB (UTC+7)  | Intermediate completion, certification, and Advanced triangle practice | 55 of 57          | Completed the Intermediate practice set, earned the SQL Intermediate certificate, and documented two Advanced triangle patterns. |
 
 ## Batch Review Notes
 
