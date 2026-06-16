@@ -4,7 +4,7 @@ This folder contains 4 Advanced-level HackerRank SQL practice files.
 
 ## Current Status
 
-2 of 4 Advanced-level practice files are accepted on HackerRank and documented
+4 of 4 Advanced-level practice files are accepted on HackerRank and documented
 in this repository.
 
 ## Focus Areas

@@ -1,9 +1,9 @@
 # HackerRank SQL Certification Prep
 
-![Status](https://img.shields.io/badge/status-foundation%20ready-blue)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![SQL](https://img.shields.io/badge/sql-practice-2EC866)
 ![HackerRank](https://img.shields.io/badge/platform-HackerRank-2EC866)
-![Progress](https://img.shields.io/badge/progress-55%2F57-blue)
+![Progress](https://img.shields.io/badge/progress-57%2F57-brightgreen)
 
 A structured SQL practice repository for HackerRank SQL challenges and SQL certification preparation.
 
@@ -29,9 +29,9 @@ The work here focuses on:
 | Public challenge roadmap        | Ready         |
 | Basic practice solutions        | Complete      |
 | Intermediate practice solutions | Complete      |
-| Advanced practice solutions     | In progress   |
-| Solved practice problems        | 55 of 57      |
-| Certification status            | SQL Basic and SQL Intermediate earned |
+| Advanced practice solutions     | Complete      |
+| Solved practice problems        | 57 of 57      |
+| Certification status            | SQL Basic, Intermediate, and Advanced earned |
 
 ## Certification Direction
 
@@ -58,7 +58,8 @@ This repository is for preparation and practice documentation. It does not conta
 |   |-- certificates/
 |   |   |-- README.md
 |   |   |-- hackerrank-sql-basic-certificate-2026-06-10.png
-|   |   `-- hackerrank-sql-intermediate-certificate-2026-06-14.png
+|   |   |-- hackerrank-sql-intermediate-certificate-2026-06-14.png
+|   |   `-- hackerrank-sql-advanced-certificate-2026-06-16.png
 |   `-- screenshots/
 |       `-- README.md
 |-- docs/
@@ -78,7 +79,7 @@ This repository is for preparation and practice documentation. It does not conta
     |   `-- 13 accepted practice files
     `-- advanced/
         |-- README.md
-        `-- 2 accepted practice files and 2 templates
+        `-- 4 accepted practice files
 ```
 
 ## Challenge Roadmap
@@ -89,8 +90,8 @@ The full challenge list is tracked in [CHALLENGES.md](CHALLENGES.md).
 | ------------ | -------: | --------: | -----: |
 | Basic        |       40 |       520 |     40 |
 | Intermediate |       13 |       440 |     13 |
-| Advanced     |        4 |       140 |      2 |
-| Total        |       57 |      1100 |     55 |
+| Advanced     |        4 |       140 |      4 |
+| Total        |       57 |      1100 |     57 |
 
 ## Solution Lifecycle
 
@@ -143,7 +144,7 @@ official credential link.
 | --------------------------- | ------- | ------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | HackerRank SQL Basic        | Earned  | Jun 10, 2026 | [Official link](https://www.hackerrank.com/certificates/86438a7fe347)        | [Certificate image](assets/certificates/hackerrank-sql-basic-certificate-2026-06-10.png)          |
 | HackerRank SQL Intermediate | Earned  | Jun 14, 2026 | [Official link](https://www.hackerrank.com/certificates/8c305d999682)        | [Certificate image](assets/certificates/hackerrank-sql-intermediate-certificate-2026-06-14.png)   |
-| HackerRank SQL Advanced     | Planned | TBD          | To be added after completion                                                  | To be added after completion                                                                      |
+| HackerRank SQL Advanced     | Earned  | Jun 16, 2026 | [Official link](https://www.hackerrank.com/certificates/fae5f9081831)        | [Certificate image](assets/certificates/hackerrank-sql-advanced-certificate-2026-06-16.png)       |
 
 Public-safe certificate images can be stored in [assets/certificates](assets/certificates) after completion. Official credential links remain the primary verification source.
 

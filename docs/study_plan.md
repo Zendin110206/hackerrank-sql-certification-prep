@@ -6,6 +6,15 @@ This study plan turns the challenge roadmap into practical milestones.
 
 The repository builds SQL fluency through accepted HackerRank practice, readable solution files, and documented review checkpoints before certification attempts.
 
+## Completion Status
+
+As of Jun 16, 2026, the planned HackerRank SQL practice roadmap is complete:
+
+- 40 of 40 Basic practice problems accepted;
+- 13 of 13 Intermediate practice problems accepted;
+- 4 of 4 Advanced practice problems accepted;
+- SQL Basic, SQL Intermediate, and SQL Advanced certificates earned and verified.
+
 ## Phase 1: Basic SQL
 
 Target: 40 Basic-level practice problems.
